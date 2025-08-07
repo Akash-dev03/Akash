@@ -24,7 +24,7 @@ This repository contains solutions to the programming problems shared as part of
 ## 🛠 Tech Stack
 
 - **Languages:** Python
-- **Tools:** VSCode, Git,
+- **Tools:** VSCode, Git
 - **Version Control:** GitHub
 
 ---
